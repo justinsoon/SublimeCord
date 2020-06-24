@@ -1,6 +1,6 @@
 ### Sublime Discord
 A BetterDiscord theme that gives a sublime text feel. 
-Source - MinimalDiscord: https://github.com/Gibbu/BetterDiscord-Themes/tree/master/MinimalCord
+Thanks for the help! - ![Gibbu]( https://github.com/Gibbu/)
 
 Server Chat - **DARK**
 ![Server Chat](https://i.imgur.com/S5rbXln.png)
