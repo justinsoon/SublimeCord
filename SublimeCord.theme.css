@@ -9,10 +9,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Consolas:300,400,500,700,900');
 @import url("https://justinsoon.github.io/SublimeCord/base.css");
-@import url("https://justinsoon.github.io/SublimeCord/bases.css"); /* radial status */
+@import url("https://justinsoon.github.io/SublimeCord/radial.css"); /* radial status */
 
 /* Black Box user tags */
-@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://justinsoon.github.io/SublimeCord/usertag.css');
 
 
 :root {
